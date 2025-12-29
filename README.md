@@ -1,5 +1,3 @@
-# C - Chapter1 - 2 - Practice
-Practice problems for C language(Chapter 1–2) based on “C Language Express”.
 # 📘 C Language Practice – Chapter 1~2
 
 이 저장소는** 《쉽게 풀어쓴 C언어 EXPRESS(개정3판)》 Chapter 1 ~Chapter 2 * *내용을 학습한 후
